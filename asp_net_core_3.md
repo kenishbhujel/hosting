@@ -45,7 +45,7 @@ On **Windows PowerShell**:
 
 ```powershell
 cd C:\Users\sagar\Downloads\counterbilling
-scp -r * root@69.164.245.198:/var/www/counterbilling
+scp -r * root@69.x.x.x:/var/www/counterbilling
 ```
 
 ---
